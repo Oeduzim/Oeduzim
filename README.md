@@ -1,4 +1,4 @@
-### Olá, Mundo! Eu sou o Eduzin
+### Hello, World! I am Eduzin
 
 - 🔭 Sou novo na área de programação e procuro evoluir.
 - 🌱 Estudando: C++
