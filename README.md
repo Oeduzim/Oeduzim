@@ -1,4 +1,4 @@
-### Hello, World! I am Eduzin
+### Hello, World! I am Eduardo Prachedes
 
 - 🔭 I'm new to programming and looking to evolve.
 - 🌱 Studying: C++
